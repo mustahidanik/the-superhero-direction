@@ -1,0 +1,27 @@
+.img-container img{
+    width: 150px;
+    height: 150px;
+    padding-top: 20px;
+    border-radius: 50%;
+    
+
+}
+.data-card {
+    background-color: rgb(198, 198, 206);
+    border: 2px solid rgb(23, 24, 24);
+    border-radius: 10px;
+
+}
+.button{
+    background-color: rgb(8, 158, 228);
+    width: 140px;
+    height: 25px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.font-btn{
+    color: rgb(233, 157, 144);
+}

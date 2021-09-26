@@ -1,0 +1,17 @@
+.cart-items{
+    display: flex;
+    align-items: center;
+
+}
+.cart-items img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    padding-right: 8px;
+}
+.total{
+    background-color: rgb(198, 198, 206);
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}

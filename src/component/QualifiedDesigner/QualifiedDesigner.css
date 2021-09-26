@@ -1,0 +1,16 @@
+.main-div{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 40px;
+    row-gap: 40px;
+    text-align: center;
+    margin-right: 10px;
+}
+.container-div{
+    display: flex;
+    
+}
+.designer-cart{
+    text-align: center;
+    justify-content: center;
+}
